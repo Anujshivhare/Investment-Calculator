@@ -20,7 +20,7 @@ Investment Calculator is a powerful tool built with React JS that helps users ca
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/investment-calculator.git
+    git clone https://github.com/Anujshivhare/Investment-Calculator
     ```
 
 2. Navigate to the project directory:
